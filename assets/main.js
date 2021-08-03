@@ -87,6 +87,6 @@ document
   });
 
 /*Zeile für css print*/
-document
-  .querySelectorAll(".lozad")
-  .forEach((el) => (el.src = el.getAttribute("data-src")));
+// document
+//   .querySelectorAll(".lozad")
+//   .forEach((el) => (el.src = el.getAttribute("data-src")));
