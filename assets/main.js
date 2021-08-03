@@ -71,19 +71,13 @@ history.scrollRestoration = "manual";
 document
   .querySelector("#close-filter-box")
   .addEventListener("click", function () {
-    document.querySelector(".filter-box").classList.add("notshown");
-    document.querySelector("#close-filter-box").style.display = "none";
-    document.querySelector("#open-filter-box").style.display = "block";
-    document.querySelector(".sidebar").classList.add("hidden-bar");
+    document.querySelector(".sidebar").classList.add("collapse");
   });
 
 document
   .querySelector("#open-filter-box")
   .addEventListener("click", function () {
-    document.querySelector(".sidebar").classList.remove("hidden-bar");
-    document.querySelector(".filter-box").classList.remove("notshown");
-    document.querySelector("#close-filter-box").style.display = "block";
-    document.querySelector("#open-filter-box").style.display = "none";
+    document.querySelector(".sidebar").classList.remove("collapse");
   });
 
 /*Zeile für css print*/

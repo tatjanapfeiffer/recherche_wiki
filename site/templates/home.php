@@ -7,7 +7,7 @@ $alleTags = $site->index()->pluck("tags", ",", true);
 <div class="header">
   <div class="title">Verhaltensbeeinflussende Gestaltung</div>
   <div class="Suche-box">
-    <input class="Suche">
+    <input class="Suche" class="material-icons aktiv" id="search-btn">
       <span class="material-icons aktiv" id="search-btn">search</span>
     </input>
   </div>
@@ -16,14 +16,12 @@ $alleTags = $site->index()->pluck("tags", ",", true);
 
 <div class="content">
   <div class="sidebar">
-    <div id="filter-minimize">
-      <div id="close-filter-box">Close</div>
-      <div id="open-filter-box">Open</div>
-    </div>  
+   <div class="hamburger wackel" id="open-filter-box">>></div>
+    <div class="hamburger wackel" id="close-filter-box"><<</div>
     <div class="filter-box">
-      <button class="alle-button aktiv filter-button">Alle</button>
+      <button class="alle-button aktiv filter-button wackel">Alle</button>
       <?php foreach($alleTags as $tag): ?>
-        <button class="filter-button" data-tag="<?= $tag ?>"><?= $tag ?></button>
+        <button class="filter-button wackel" data-tag="<?= $tag ?>"><?= $tag ?></button>
       <?php endforeach ?>
     </div>
   </div>

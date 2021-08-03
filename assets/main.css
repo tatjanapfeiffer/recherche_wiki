@@ -1,3 +1,5 @@
+@import "./sidebar.css";
+
 body,
 html {
   width: 100%;
@@ -115,65 +117,10 @@ html {
 #search-btn {
 }
 
-.sidebar {
-  width: var(--filter-box-breite);
-  display: block;
-}
-
-.filter-box {
-  padding: var(--padding-content);
-  display: flex;
-  flex-direction: column;
-  position: fixed;
-  width: var(--filter-box-breite);
-  -webkit-transition: 1s;
-  transition: 1s;
-}
-
-.filter-button {
-  text-transform: capitalize;
-  font-size: 1.4vh;
-  font-family: "Comfortaa", cursive;
-  border-radius: 3vh;
-  /* margin-bottom: 0.5vh; */
-  border: 0.1vh solid blue;
-  outline: none;
-  background-color: white;
-  text-align: left;
-  margin: var(--margin-content);
-  padding: 1vh;
-}
-
-#filter-minimize {
-  display: flex;
-  flex-direction: row;
-}
-
-#close-filter-box {
-  height: 2vh;
-  width: 3vw;
-  background-color: red;
-  /* display: block; */
-}
-
 .notshown {
   display: none;
-  -webkit-transition: 1s;
-  transition: 1s;
-}
-
-.hidden-bar {
-  width: 2vw;
-  -webkit-transition: 1s;
-  transition: 1s;
-}
-
-#open-filter-box {
-  height: 2vh;
-  position: relative;
-  width: 3vw;
-  background-color: blue;
-  display: none;
+  -webkit-transition: 0.5s;
+  transition: 0.5s;
 }
 
 button.aktiv {
@@ -184,8 +131,8 @@ input:focus {
   background-color: aquamarine;
 }
 
-button:focus,
-button:hover {
+.wackel:focus,
+.wackel:hover {
   transform: rotate(-3deg);
   background-color: aquamarine;
 }
