@@ -1,0 +1,9 @@
+Title: Kaskadeneffekt
+
+----
+
+Text: <p>Oftmals trifft man auf Preislisten, bei denen das günstigste Produkt oben, das teuerste Produkt unten angesiedelt ist. Aus Sicht der Preispsychologie ist eine solche Vorgehensweise jedoch grundverkehrt. Konsumenten tendieren dazu, sich eher für Produkte zu entscheiden, die in einer Preisliste ganz oben aufgeführt werden!</p><p>Gerade in Restaurants kann man dieses Verhalten bei der Preisbildung / Auszeichnung oft beobachten: Das günstigste Nudelgericht findet man oben, das teuerste unten. Dabei sollte es aus Erkenntnissen der Marktforschung heraus wie gesagt genau umgekehrt sein. Auch im Online-Vertrieb sollte dieser Punkt nicht aus den Augen verloren gehen.</p>
+
+----
+
+Tags: 

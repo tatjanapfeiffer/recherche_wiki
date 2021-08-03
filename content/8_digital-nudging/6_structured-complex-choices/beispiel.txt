@@ -1,0 +1,13 @@
+Title: Structured Complex Choices
+
+----
+
+Text: <p>According to Weinmann, Schneider, and vom Brocke (2016) <em>structured complex choices </em>refers to the principle to list and structure attributes of all the alternatives in order to let individuals make trade-offs when, and if necessary. (...)Further, when the set of choice gets to large and complex Thaler, Sunstein, and Balz (2014) suggest that alternative strategies should be deployed. An alternative strategy can be <em>compensatory</em>, which refers to the idea that one attribute can compensate another (Thaler, Sunstein &amp; Balz, 2014). Moreover, Thaler, Sunstein, and Balz (2014) suggest that tasks have to be simplified, and social science research reveals that as the choices become more complex humans are more likely to adopt simplifying strategies.&nbsp;</p><p>Vergleichswebsiten als Dienstleistung(travel agencies/OTAs): check 24 --&gt; bekommen 20-30% des Umsatzes dafür, dass sie die Angebote vorsortieren und vergleichbar machen. (The Smarter Screen, Benartzi, S. 11)</p><p>"The extremely lucrative business model of the OTAs is based on taking advantages of the mismatch between all of the information on our physical screen [...] and our mental screen, which is the information we can actually pay attention to." (The Smarter Screen, Benartzi, S. 11)</p><p><br>Als Online Travel Agency, kurz&nbsp;<strong>OTA</strong>, (deutsch: Online-Reisebüro, -Reiseagentur oder -Reisevermittler) wird eine Agentur oder Reisebüro genannt, das Leistungen wie Hotels, Flüge und Mietwagen hauptsächlich über das&nbsp;Internet vermittelt. Häufig bieten OTAs auch so genannte Dynamic Packaging an, hier werden Einzelleistungen&nbsp;miteinander zu einem&nbsp;Paketreise kombiniert, z. B.&nbsp;der Flug und ein Hotel am Zielort.</p><p>Gerade bei Flugbuchungen sind OTAs interessant, da sie nicht selten Tickets günstiger verkaufen, als die Airlines selbst. Dabei nehmen sie theoretisch sogar Verluste in Kauf. Ihr Geld verdienen sie mit Zusatzleistungen wie Versicherungen. (<a href="https://travel-dealz.de/lexikon/ota/" rel="noopener noreferrer nofollow">https://travel-dealz.de/lexikon/ota/</a>, 15.04.2021)</p>
+
+----
+
+Links: 
+
+----
+
+Tags: psychologie, technologie, nudging

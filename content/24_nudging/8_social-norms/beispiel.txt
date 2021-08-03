@@ -1,0 +1,9 @@
+Title: Social Norms
+
+----
+
+Text: <p>uses of social norms (emphasizing what most people do, e.g., “most people plan to vote” or “most people pay their taxes on time” or “nine out of ten hotel guests reuse their towels”) Comment: One of the most effective nudges is to inform people that most others are engaged in certain behavior. Such information is often most powerful when it is as local and specific as possible (“the overwhelming majority of people in your community pay their taxes on time”). Use of social norms can reduce criminal behavior and also behavior that is harmful whether or not it is criminal (such as alcohol abuse, smoking, and discrimination). It is true that sometimes most or many people are engaging in undesirable behavior. In such cases, it can be helpful to highlight not what most people actually do, but instead what most people think people should do (as in, “90 percent of people in Ireland believe that people should pay their taxes on time”).<br><br>(<a href="https://dash.harvard.edu/bitstream/handle/1/16205305/shortguide9_22.pdf?sequence=4" rel="noopener noreferrer nofollow">https://dash.harvard.edu/bitstream/handle/1/16205305/shortguide9_22.pdf?sequence=4</a>, 15.4.2021)</p>
+
+----
+
+Tags: nudging

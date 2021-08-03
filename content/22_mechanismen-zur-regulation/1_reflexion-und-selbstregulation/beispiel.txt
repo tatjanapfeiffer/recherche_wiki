@@ -1,0 +1,13 @@
+Title: Reflexion und Selbstregulation
+
+----
+
+Text: <p>Viele Internetanwendungen prägen heute maßgeblich den beruflichen wie auch privaten Alltag ihrer Nutzerinnen und Nutzer. Dabei weisen sowohl Jugendliche als auch Erwachsene mehrheitlich einen funktionalen und gewinnbringenden Umgang mit dem Internet auf. Doch nicht erst seit der Klassifizierung der (Internet) Gaming Disorder ("Computerspielsucht") durch die Weltgesundheitsorganisation wird deutlich, dass die Problematik einer unkontrollierten Internetnutzung nicht zu unterschätzen ist. Auch die konstanten Zahlen von Cybermobbing-Akten unterstreichen mögliche Gefahren einer dysfunktionalen Internetnutzung. Als mögliche Präventionsmaßnahme spielt die Vermittlung von Internetnutzungskompetenzen eine entscheidene Rolle und es gilt zu prüfen, welche Kompetenzen eine selbstbestimmte, funktionale Internetnutzung unterstützen.</p>
+
+----
+
+Links: <ul><li><p><a href="https://www.medienanstalt-nrw.de/zum-nachlesen/forschung/abgeschlossene-projekte/schriftenreihe-medienforschung/geschickt-geklickt-reflexion-und-selbstregulation.html" target="_blank" title="Reflexion und Selbstregulation bei der Internetnutzung" rel="noopener noreferrer nofollow">Reflexion und Selbstregulation bei der Internetnutzung</a></p></li></ul>
+
+----
+
+Tags: technologie, regulation

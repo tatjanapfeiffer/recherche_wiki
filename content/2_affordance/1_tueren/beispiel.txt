@@ -1,0 +1,9 @@
+Title: Türen
+
+----
+
+Text: <p>Türen und Türgriffe sind gute Beispiele für gutes Design und passende Affordances. Sie sind allgemein bekannte einfach bedienbare Objekte, die aber auf verschiedene Weisen funktionieren können. Anhand der Griffe, kann der Öffnungsmechanismus verdeutlicht werden und die Türe wird inuitiv benutzt.</p>
+
+----
+
+Tags: produktdesign

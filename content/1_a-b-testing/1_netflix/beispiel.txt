@@ -1,0 +1,13 @@
+Title: Netflix
+
+----
+
+Text: <p>Recht früh gelangte das Unternehmen dabei zu einem Erfolgsrezept: Auf den Bilder sollen nicht mehr als drei Menschen zu sehen sein, Bösewichte wirken anziehender auf die Nutzer als Helden und Emotionen sollen im Mittelpunkt stehen. Um sein Angebot noch weiter zu optimieren, geht der Streamingdienst nun jedoch noch einen Schritt weiter und stellt nutzerbezogene Vorschaubilder bereit.</p><p><a href="https://www.techbook.de/entertainment/netflix-vorschaubilder-personalisiert" rel="noopener noreferrer nofollow">https://www.techbook.de/entertainment/netflix-vorschaubilder-personalisiert</a>, 21.07.2021</p><p><a href="https://www.looper.com/274997/the-secret-behind-netflixs-personalized-thumbnails/" rel="noopener noreferrer nofollow">https://www.looper.com/274997/the-secret-behind-netflixs-personalized-thumbnails/</a>, 07.12.2020</p><p>Stichwort: <a href="#begriff-zielgruppen" rel="noopener noreferrer nofollow">Zielgruppe</a></p><p><strong>Aesthetic Visual Analysis (AVA)</strong> →<a href="https://theindependentinitiative.com/2019/03/06/the-science-behind-netflixs-thumbnail-algorithm/" rel="noopener noreferrer nofollow"> https://theindependentinitiative.com/2019/03/06/the-science-behind-netflixs-thumbnail-algorithm/</a></p>
+
+----
+
+Links: <ul><li><p><a href="https://netflixtechblog.com/selecting-the-best-artwork-for-videos-through-a-b-testing-f6155c4595f6" rel="noopener noreferrer nofollow">https://netflixtechblog.com/selecting-the-best-artwork-for-videos-through-a-b-testing-f6155c4595f6</a></p></li></ul>
+
+----
+
+Tags: psychologie, marketing, technologie, studie

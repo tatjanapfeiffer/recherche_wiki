@@ -1,0 +1,360 @@
+body,
+html {
+  width: 100%;
+  margin: 0;
+  hyphens: auto;
+  /*  background-color: red;
+*/
+}
+
+* {
+  box-sizing: border-box;
+}
+
+/* CSS Variablen */
+@font-face {
+  font-family: "Material Icons";
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://example.com/MaterialIcons-Regular.eot); /* For IE6-8 */
+  src: local("Material Icons"), local("MaterialIcons-Regular"),
+    url(https://example.com/MaterialIcons-Regular.woff2) format("woff2"),
+    url(https://example.com/MaterialIcons-Regular.woff) format("woff"),
+    url(https://example.com/MaterialIcons-Regular.ttf) format("truetype");
+}
+
+:root {
+  --filter-box-breite: 12vw;
+  --content-top: 10vh;
+  --margin-content: 0.6vh;
+  --bottom-margin-content: 2vh;
+  --top-margin-content: 2vh;
+  --padding-content: 2vh;
+  --fliesstext-size: 1.7vh;
+  --fliesstext-line-height: 1.2em;
+  --Playfair: "Playfair+Display", italic;
+  --Comforta: "Comforta", sans-serif;
+  --Montserrat: "Montserrat";
+}
+
+.header {
+  top: 0;
+  height: auto;
+  background-color: white;
+  position: sticky;
+  width: 100%;
+  padding: 1vh;
+  z-index: 4;
+  border-bottom: 0.1vh solid blue;
+  font-family: var(--Playfair);
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.content {
+  display: flex;
+}
+
+.material-icons {
+  font-family: "Material Icons";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 24px; /* Preferred icon size */
+  display: inline-block;
+  line-height: 1;
+  text-transform: none;
+  letter-spacing: normal;
+  word-wrap: normal;
+  white-space: nowrap;
+  direction: ltr;
+
+  /* Support for all WebKit browsers. */
+  -webkit-font-smoothing: antialiased;
+  /* Support for Safari and Chrome. */
+  text-rendering: optimizeLegibility;
+
+  /* Support for Firefox. */
+  -moz-osx-font-smoothing: grayscale;
+
+  /* Support for IE. */
+  font-feature-settings: "liga";
+}
+
+.title {
+  font-size: 2vw;
+  padding: 1vh;
+  margin: var(--margin-content);
+  font-family: var(--Montserrat);
+}
+
+.profile {
+  right: 0;
+}
+
+.Suche-box {
+  margin: var(--margin-content);
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+}
+
+.Suche {
+  left: 44vw;
+  width: 40vw;
+  position: sticky;
+  background-color: transparent;
+  height: fit-content;
+  font-size: 1.5vh;
+  font-family: "Comfortaa", cursive;
+  padding: 1vh;
+  border: 0.1vh solid blue;
+  border-radius: 3vh;
+}
+
+#search-btn {
+}
+
+.sidebar {
+  width: var(--filter-box-breite);
+  display: block;
+}
+
+.filter-box {
+  padding: var(--padding-content);
+  display: flex;
+  flex-direction: column;
+  position: fixed;
+  width: var(--filter-box-breite);
+  -webkit-transition: 1s;
+  transition: 1s;
+}
+
+.filter-button {
+  text-transform: capitalize;
+  font-size: 1.4vh;
+  font-family: "Comfortaa", cursive;
+  border-radius: 3vh;
+  /* margin-bottom: 0.5vh; */
+  border: 0.1vh solid blue;
+  outline: none;
+  background-color: white;
+  text-align: left;
+  margin: var(--margin-content);
+  padding: 1vh;
+}
+
+#filter-minimize {
+  display: flex;
+  flex-direction: row;
+}
+
+#close-filter-box {
+  height: 2vh;
+  width: 3vw;
+  background-color: red;
+  /* display: block; */
+}
+
+.notshown {
+  display: none;
+  -webkit-transition: 1s;
+  transition: 1s;
+}
+
+.hidden-bar {
+  width: 2vw;
+  -webkit-transition: 1s;
+  transition: 1s;
+}
+
+#open-filter-box {
+  height: 2vh;
+  position: relative;
+  width: 3vw;
+  background-color: blue;
+  display: none;
+}
+
+button.aktiv {
+  background-color: aquamarine;
+}
+
+input:focus {
+  background-color: aquamarine;
+}
+
+button:focus,
+button:hover {
+  transform: rotate(-3deg);
+  background-color: aquamarine;
+}
+
+input:hover {
+  cursor: pointer;
+  animation-name: shake;
+  animation-duration: 0.5s;
+}
+
+@keyframes shake {
+  0% {
+    transform: rotate(0deg);
+    background-color: aquamarine;
+  }
+  50% {
+    transform: rotate(-3deg);
+  }
+  100% {
+    transform: rotate(0deg);
+  }
+}
+
+.begriffe {
+  margin-top: 1rem;
+  flex: 1;
+}
+
+.begriff {
+  display: grid;
+  grid-template-columns: 0fr 2fr;
+  border-left: 0.1vh solid blue;
+  margin-bottom: 2vh;
+}
+
+.definitions-box {
+  padding: var(--padding-content);
+  border-right: 0.1vh solid blue;
+  border-bottom: 0.1vh dotted blue;
+  width: 22vw;
+}
+
+.begriff-titel {
+  margin-bottom: 1vh;
+  font-family: "Comfortaa", cursive;
+  /* font-size: 3vh;
+  line-height: 1em; */
+}
+
+.begriff-definition {
+  font-family: "Montserrat", cursive;
+  font-size: var(--fliesstext-size);
+  line-height: var(--fliesstext-line-height);
+}
+
+.beispiele {
+  padding: var(--padding-content);
+  overflow-x: hidden;
+  border-bottom: 0.1vh dotted blue;
+}
+
+.beispiel-text {
+  font-family: "Montserrat", cursive;
+  font-size: var(--fliesstext-size);
+  line-height: var(--fliesstext-line-height);
+}
+
+p {
+  display: block;
+  margin-top: 1vh;
+}
+
+.beispiel-bilder {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 1vh 1vh;
+  margin-bottom: var(--bottom-margin-content);
+  margin-top: var(--top-margin-content);
+}
+
+.beispiel-bild {
+  width: 100%;
+  border: 0.1vh solid blue;
+}
+
+.beispiel {
+  border-bottom: 0.1vh dotted blue;
+  margin-bottom: 2vh;
+}
+
+.beispiel ul {
+  list-style: none;
+  padding: 0;
+}
+
+/*.img-fit {
+   width: 18vw;
+   object-fit: cover;
+   height: 11vw;
+}*/
+
+.hide {
+  display: none;
+}
+
+h1 {
+  font-family: "Comfortaa", cursive;
+  font-size: 3vh;
+  line-height: 1em;
+  margin: 0;
+}
+
+h2 {
+  font-family: "Montserrat", cursive;
+  font-size: 3vh;
+  line-height: 1em;
+  margin: 0;
+}
+
+h3 {
+  font-family: "Montserrat", cursive;
+  font-size: 3vh;
+  line-height: 1em;
+  margin-top: 0;
+  margin-bottom: 2vh;
+}
+
+li {
+  font-family: "Montserrat", cursive;
+  font-size: var(--fliesstext-size);
+  line-height: var(--fliesstext-line-height);
+  color: black;
+}
+
+a {
+  word-wrap: break-word;
+  text-decoration: none;
+}
+
+a:visited {
+  color: blue;
+}
+
+a:hover {
+  color: aquamarine;
+}
+
+.highlight {
+  background-color: aquamarine;
+}
+
+.begriffe.display-search-results .begriff:not(.has-highlights) {
+  display: none;
+}
+
+.begriffe.display-search-results .beispiel:not(.has-highlights) {
+  display: none;
+}
+
+.no-results-info {
+  display: none;
+  margin: var(--margin-content);
+  padding: var(--padding-content);
+}
+
+.begriffe.no-results .no-results-info {
+  display: block;
+}
+
+input {
+  outline: none;
+}

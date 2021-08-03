@@ -1,0 +1,13 @@
+Title: Predicting users' first impressions of website aesthetics with a quantification of perceived visual complexity and colorfulness
+
+----
+
+Text: <p>According to the data, Reinecke’s model explained 48 percent of the variation in aesthetic preferences for a given Web site. This means that nearly half of our immediate reaction to a given site—what we like and don’t like—can be explained by looking only at colorfulness and complexity. “It was a cool finding,” she says. “I think it shows us that a lot of the stuff maybe designers think is very important”—such as content and imagery—“isn’t that important at all.” (The Smarter Screen, p.46)</p>
+
+----
+
+Links: <ul><li><p><a href="https://dash.harvard.edu/bitstream/handle/1/12561368/Predicting%20Users%20First%20Impressions.pdf?sequence=1" rel="noopener noreferrer nofollow">https://dash.harvard.edu/bitstream/handle/1/12561368/Predicting%20Users%20First%20Impressions.pdf?sequence=1</a></p></li></ul>
+
+----
+
+Tags: neurodesign, technologie, grafikdesign, studie

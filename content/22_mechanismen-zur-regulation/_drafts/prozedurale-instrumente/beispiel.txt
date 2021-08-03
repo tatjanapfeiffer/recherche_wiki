@@ -1,0 +1,9 @@
+Title: Prozedurale Instrumente
+
+----
+
+Text: <p>Unter <strong>prozeduralen Instrumenten </strong>sind Ansätze zu verstehen, die darauf abzielen, Unternehmen dazu zu bewegen, sich in Planungsverfahren bereits mit den voraussichtlichen Umweltauswirkungen ihrer wirtschaftlichen Aktivitäten zu befassen. Zu ihnen zählen Umweltverträglichkeitsprüfungen, die etwa bei Flussvertiefungen oder Ferienanlagen obligatorisch sind oder das Umweltmanagementsys-tem EMAS, das dazu beitragen soll, dass Unternehmen ihre Umweltauswirkungen systematisch ermit-teln und reduzieren. Der bei diesen Instrumenten vorliegende Koordinierungsmechanismus liegt in der Prozesssteuerung. (...)So geht es etwa beim Ökodesign darum, die Umweltauswirkungen eines Produktes in der Nutzungsphase zu minimieren. Dies soll dadurch geschehen, dass in der Produktplanung, -entwicklung und -gestaltung bereits die zu erwartenden Umweltauswirkungen des Produkts analysiert und mini-miert werden.&nbsp;</p>
+
+----
+
+Tags: 

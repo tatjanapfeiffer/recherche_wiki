@@ -1,0 +1,9 @@
+Title: Elektronischer Handel
+
+----
+
+Text: <p>Ein weiteres Anwendungsfeld, in dem Instrumente Big-Data-gestützter Verhaltensbeeinflussung eingesetzt werden, ist der elektronische Handel. Der Einsatz der Instrumente in diesem Feld zielt in der Regel auf die Steigerung von Umsätzen und Gewinnen. Ein besonders interessanter Fall ist <em>Nudgr</em>, ein Instrument, das Kund*innen möglichst lange auf den Webseiten von Online-Shops halten soll. Zu diesem Zweck werden verschiedene Nutzerdaten erfasst, etwa die Bewegung der Maus über das Browserfenster, und durch lernende Algorithmen ausgewertet. Deuten diese Daten darauf hin, dass eine Kundin die Seite mit großer Wahrscheinlichkeit in Kürze verlassen wird, aktiviert <em>Nudgr </em>ein Pop-Up-Fenster, das die Kundin z.B. mit einem Rabatt oder mit der Meldung, bestimmte Produkte seien nur noch begrenzt verfügbar, dazu animieren soll, weiterhin auf der Seite zu verbleiben und doch noch etwas zu kaufen. Statt allen Kund*innen einen Rabatt anzubieten – also auch denjenigen, die den regulären Preis zu zahlen bereit wären –, lockt <em>Nudgr </em>nur diejenigen Personen, die ansonsten gar keine Einnahmen generieren würden.&nbsp; (ABIDA-Gutachten, S. 26ff.)</p><p></p><p>Interventionen/Methoden: </p><ol><li><p>Verknappung --&gt; Verlustaversion</p></li><li><p>Erhöhung (z.B <a href="https://www.vice.com/en/article/mgbz5a/ubers-phantom-cabs" target="_blank" title="Phantom Cabs Uber" rel="noopener noreferrer nofollow">Phantom Cabs Uber</a>)</p></li><li><p>Personalisierung von Produkten</p></li><li><p>Haptik des Touchscreens --&gt; Nutzer geben erwiesenermaßen mehr Geld aus (Benarzti 2015)</p></li><li><p>Anker + defaults</p></li></ol>
+
+----
+
+Tags: psychologie, nudging

@@ -1,0 +1,42 @@
+@media print {
+  /* HIDE UNWANTED DIVS */
+
+  .header,
+  .sidebar {
+    display: none;
+  }
+
+  .begriff {
+    page-break-before: always;
+  }
+
+  h1 {
+    font-family: "Comfortaa", cursive;
+    font-size: 1vh;
+    margin: 0;
+  }
+
+  h2 {
+    font-family: "Montserrat", cursive;
+    font-size: 1vh;
+    margin: 0;
+  }
+
+  h3 {
+    font-family: "Montserrat", cursive;
+    font-size: 1vh;
+    margin: 0;
+  }
+
+  p {
+    font-size: 0.7vh;
+    line-height: 1.5em;
+  }
+
+  @page {
+    margin-left: 5mm;
+    margin-right: 5mm;
+    margin-top: 5mm;
+    margin-bottom: 5mm;
+  }
+}

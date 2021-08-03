@@ -1,0 +1,9 @@
+Title: Verlustaversion
+
+----
+
+Definition: <p>Verluste werden tendenziell höher gewichtet als Gewinne gleichen Werts. Diese&nbsp;kognitive Verzerrung, die Verlustaversion, auf Englisch&nbsp;<em>loss aversion</em>, gehört zu den großen psychologischen Einsichten der sogenannten&nbsp;Verhaltensökonomie. Die irrationale Vermeidung von Verlusten in&nbsp;unsicheren Szenarien&nbsp;hat auch evolutionspsychologische Gründe und reicht vermutlich bis in die Zeit der Jäger und Sammler zurück.</p><p>--&gt; siehe Verknappung</p>
+
+----
+
+Tags: psychologie

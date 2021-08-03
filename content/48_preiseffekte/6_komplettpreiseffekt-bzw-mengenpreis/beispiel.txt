@@ -1,0 +1,9 @@
+Title: Komplettpreiseffekt, bzw. Mengenpreis
+
+----
+
+Text: <p>Hierbei werden Produkte gebündelt in gewissen Mengen angeboten.</p><p>Nehmen wir an ein Kunde ist etwa auf der Suche nach einer – wohlgemerkt einer (!) – Boxershort und grundsätzlich bereit hierfür 15 Euro auszugeben. Nehmen wir weiter an, der Anbieter hat eine Short für 15 Euro (Einzelpreis) im Programm, wobei die Short 8 Euro im Einkauf kostet. Bietet er nun einmal die Short einzeln an (für 15 Euro) und ein weiteres Mal einen Dreierpack der gleichen Short für sagen wir 33,99 Euro, so werden sich viele Kunden für den Dreierpack entscheiden, obwohl sie eigentlich nur eine Short kaufen wollten. Der Nettogewinn läge dann beim Dreierpack vereinfacht gesagt bei € 9,99. Hätte der Kunde hingegen wie geplant nur eine Short gekauft, läge sein Nettogewinn bei lediglich 7 Euro (Lagerkosten seien hier ausgeblendet, wobei sich höheren Lagerkosten wiederum Mengenrabatte beim Einkauf der Ware gegenüberstellen).</p>
+
+----
+
+Tags: marketing

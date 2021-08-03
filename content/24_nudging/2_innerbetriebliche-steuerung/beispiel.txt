@@ -1,0 +1,13 @@
+Title: Innerbetriebliche Steuerung
+
+----
+
+Text: <p>Eine soziale Situation, in der Instrumente Big-Data-gestützter Verhaltensbeeinflussung bereits vermehrt zum Einsatz kommen, ist die innerbetriebliche Steuerung. Instrumente wie <em>Salesforce </em>(siehe dazu Raffetseder et al. 2017), <em>Kelaa</em>, <em>Nudge Rewards </em>oder die <em>Uber Driver App </em>funktionieren auf eine vergleichbare Art und Weise: Durch Sensoren, etwa die in zahlreiche Smartphones integrierten Bewegungssensoren, sowie durch Eingaben der Beschäftigten und weitere Inputs werden Daten gesammelt (zur datengestützten Beobachtung von Angestellten siehe Culik/Forte 2017).&nbsp;<br>Diese Daten, z.B. über bearbeitete Aufgaben (<em>Salesforce</em>) oder Schlafdauer und -qualität (<em>Kelaa</em>) werden ausgewertet und entweder zu im Vorfeld definierten, starren Zielvorgaben in Beziehung gesetzt oder mit den Daten von Kolleg*innen oder anderen ‚peers‘ verglichen.&nbsp;</p><p>(AIBA-Gutachten S. 25ff.)</p><p><strong>Verhalteninterventionen</strong></p><ol><li><p>Feedbackmechanismus --&gt; Vergleich mit Daten anderer</p></li><li><p>Übermittlung der Daten an Vorgesetzte --&gt; Lob, Tadel</p></li><li><p>Feedback + automatische Aufgabenzuweisung </p></li></ol>
+
+----
+
+Links: 
+
+----
+
+Tags: nudging

@@ -1,0 +1,9 @@
+Title: A/B-testing
+
+----
+
+Definition: <p>Der&nbsp;<strong>A/B-Test</strong>&nbsp;(auch&nbsp;<em>split test</em>)&nbsp;ist eine Testmethode zur Bewertung zweier&nbsp;Varianten&nbsp;eines Systems, bei der die Originalversion gegen eine leicht veränderte Version getestet wird. Anwendung findet diese Methode hauptsächlich bei&nbsp;Software&nbsp;und im&nbsp;Webdesign&nbsp;mit dem Ziel, eine bestimmte Nutzeraktion oder Reaktionen zu steigern.&nbsp;Im Laufe der Jahre hat es sich zu einer der wichtigsten Testmethoden im&nbsp;Online-Marketing&nbsp;entwickelt. Mit dem A/B-Test werden aber auch Preise, Designs und Werbemaßnahmen verglichen.</p>
+
+----
+
+Tags: studie, marketing, grafikdesign

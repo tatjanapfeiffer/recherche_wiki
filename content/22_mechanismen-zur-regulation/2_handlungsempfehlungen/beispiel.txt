@@ -1,0 +1,13 @@
+Title: Handlungsempfehlungen
+
+----
+
+Text: <p>Handlungsempfehlungen ABIDA Gutachten</p><p><strong><a href="https://de.wikipedia.org/wiki/Enquete-Kommission" target="_blank" rel="noopener noreferrer nofollow">Enquete-Kommissionen</a>: </strong>Eine gesellschaftliche Verständigung über Grundsätze und Leitbilder für die Entwicklung und den Einsatz Big-Data-gestützter Verhaltensbeeinflussung ist dringend erforderlich. Dazu bedarf es der gesellschaftlichen Aufklärung über die den Instrumenten zugrunde gelegten Annahmen, die in sie eingeschriebenen Menschenbilder und die mit ihnen verfolgten Ziele.&nbsp;</p><p><strong>Bürgerinnendialog</strong>:<em> Eine weitere Option besteht in der Initiierung eines Bürger</em>innendialogs, auch unter Nutzung zeitgenössischer Kommunikationsmedien, über legitime und illegitime Formen Big-Data-gestützter Verhaltensbeeinflussung (siehe hierzu auch die folgend genannten Aufklärungs- und Bildungsformate).&nbsp;</p><p><strong>Bildung und Medienkompetenz</strong> für besonders gefärderte soziale Gruppen sowie <strong>Bildung und Aufklärung für Verbraucherinnen und Verbraucher</strong>&nbsp;mithilfe von Aufklärungskampagnen und Lehrangeboten.</p><p><strong>Nudge-Register</strong>: Der Einsatz von Big-Data-gestützter Verhaltensbeeinflussung muss öffentlich informiert diskutierbar sein. Notwendig dafür ist ein öffentliches und öffentlich einsehbares Register der momentan eingesetzten Entscheidungsarchitekturen sowie der Art und Weise, in der diese operieren.&nbsp;</p><p><strong>Standardisierte Hinweise:</strong>&nbsp;(...)So könnte über eine Browser-Erweiterung den Nutzer*innen angezeigt werden, dass die besuchte Webseite Instrumente Big Data-gestützter Verhaltensbeeinflussung einsetzt.&nbsp;(...)</p><p><strong>Rechliche Regularien</strong> wie: </p><p>Beobachtungs- und Ermittlungspflicht, </p><p>Ein- und Durchführung von Ko-Regulierungsverfahren</p><p><strong>Handlungsempfehlung für die weitere Forschung:</strong></p><p>Einheitlicher Begriffsapparat, </p><p>Empirische Erfassung, </p><p>(...)</p><p>(ABIDA Gutachten S. 113 ff)</p>
+
+----
+
+Links: 
+
+----
+
+Tags: regulation, big-data, nudging

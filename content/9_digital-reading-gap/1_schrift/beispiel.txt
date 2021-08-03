@@ -1,0 +1,13 @@
+Title: Schrift
+
+----
+
+Text: <p>When the psychologists ran an extended version of this study on twenty-eight undergraduates at Princeton University, they found that those students exposed to disfluent fonts—they used 12-point&nbsp; in 60 percent grayscale or 12-point&nbsp; 60 percent—performed better than those given the information in pure black. (The Smarter Screen, p. 124)</p><p>The takeaway, says Alter, is that exposing people to disfluent information increases the likelihood that they will engage in more deliberate thinking strategies. “When something is difficult, that should act as a meta-cognitive alarm or a signal that you don’t understand it as well as you perhaps should,” Alter said in a 2013 interview. The feeling of disfluency, then, isn’t just an annoyance or inconvenience—it’s actually a crucial mental signal, telling us to slow down and focus. It’s a reminder that we need to think more. (The Smarter Screen, p. 128)</p><p>When it comes to <strong>disfluent designs</strong>, anything that makes perception less automatic—whether it’s a hint of grayscale or an unexpected layout—will also lead to more cognitive reflection. (The Smarter Screen, p. 132)</p><p>Rather, it’s about balancing the demands for cognitive ease with the benefits of desirable difficulty (p. 134)</p><p> </p>
+
+----
+
+Links: 
+
+----
+
+Tags: grafikdesign, psychologie

@@ -1,0 +1,9 @@
+Title: Simulation
+
+----
+
+Text: <p>The principle of <em>simulation </em>refers to a system that makes the users observe the link between the cause and effect, with consideration of users’ actions and behavior (Oinas-Kukkonen &amp; Harjumaa, 2009). Simulation can take the shape of mental simulation. (...) By offering simulations, the users can be convinced by presenting the cause and effect relationship that is presented in the behavioral episodes (Escalas, 2004). Further, simulations can be used in websites, showing before and after pictures (Oinas-Kukkonen &amp; Harjumaa, 2009).&nbsp;</p><p>(The alliance between Digital Nudging &amp; Persuasive Design Castmo and Persson&nbsp;S.11)</p>
+
+----
+
+Tags: persuasion, technologie

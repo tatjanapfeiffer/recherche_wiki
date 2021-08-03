@@ -1,0 +1,9 @@
+Title: Self-monitoring
+
+----
+
+Text: <p><em>Self-monitoring </em>allows users to monitor themselves, so they can modify their behavior in order to achieve their goals. Keeping track and supporting the users will make them more aware of their progress and it can trigger them to complete a predetermined outcome (Oinas-Kukkonen &amp; Harjumaa, 2009). It can work as a reminder of ineffective or successful behavior and inspire the user to change or continue to behave in the same way (Lykke, 2009). For instance, progress bars and checklist are often used in websites with the purpose to track and monitor the status of the task completion.&nbsp;</p>
+
+----
+
+Tags: persuasion

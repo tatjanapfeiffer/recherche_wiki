@@ -1,0 +1,25 @@
+status:
+  draft: Draft
+  listed: Published
+
+columns:
+  left:
+    width: 1/2
+    fields:
+      definition:
+        type: writer
+      tags:
+        type: tags
+        options: query
+        query:
+          fetch: |
+            site.index.pluck("tags", ",", true)
+          text: '{{ arrayItem.value }}'
+          value: '{{ arrayItem.value.slug }}'
+  right:
+    width: 1/2
+    sections:
+      pages:
+        headline: Beispiele
+        template: beispiel
+

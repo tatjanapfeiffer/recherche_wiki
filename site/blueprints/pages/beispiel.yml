@@ -1,0 +1,26 @@
+status:
+  draft: Draft
+  listed: Published
+
+columns:
+  left:
+    width: 1/2
+    fields:
+      text:
+        type: writer
+      links:
+        type: list
+      tags:
+        type: tags
+        options: query
+        query:
+          fetch: |
+            site.index.pluck("tags", ",", true)
+          text: '{{ arrayItem.value }}'
+          value: '{{ arrayItem.value.slug }}'
+  right:
+    width: 1/2
+    sections:
+      files:
+        type: files
+

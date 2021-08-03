@@ -1,0 +1,13 @@
+Title: Incentives
+
+----
+
+Text: <p>The design principle incentives were mentioned by Thaler, Sunstein, and Balz (2014), which stress the importance to ensure that designers make sure the planed incentives match up with the users. In order to make the design principle more effective, Weinmann, Schneider, and vom Brocke (2016) suggest that the incentive should be more salient. According to Thaler, Sunstein, and Balz (2014) salience can be manipulated, good design can direct individual’s attention to incentives. One example concerning incentive was mentioned by Thaler, Sunstein, and Balz (2014), which explain when a home thermostat provides frequent information, the temperature will decrease. Salient incentives will provide greater behavioral effects, in comparison with just raising the cost of electricity as this will be presented rather reserved on a monthly bill (Thaler, Sunstein &amp; Balz, 2014).<br></p><p>(Castmo and Persson&nbsp;S. 14)<br><br>(...)In other experiments, the use of smaller plates to discourage large portion sizes has been shown to reduce consumption.78 And, of particular interest to IRR professionals, when designers add direct incentives, the effect might be amplified yet again, at least for some audiences. Experiments in Chicago, for example, revealed that children choose cookies over dried apricots as a snack nine times out of ten. However, when a small prize, like a pen or wristband is offered with the fruit, 8 out of 10 choose the fruit and almost 4 in 10 continue to choose fruit (without a prize) even a week later.(...) (<a href="https://theirf.org/am-site/media/behavioral-economics-nudge-guide.pdf" rel="noopener noreferrer nofollow">https://theirf.org/am-site/media/behavioral-economics-nudge-guide.pdf</a>, 15.4.2021)</p><p></p><p>In Melbourne, officials contracted an artist to paint a spectacular mural on the staircase of its Southern Cross transit station, through which about 800,000 commuters pass each day. The artwork led to roughly 25% more people taking the stairs during rush hour, and 140% more during the rest of the day. (<a href="https://theirf.org/am-site/media/behavioral-economics-nudge-guide.pdf" rel="noopener noreferrer nofollow">https://theirf.org/am-site/media/behavioral-economics-nudge-guide.pdf</a>, 15.4.2021)</p>
+
+----
+
+Links: <ul><li><p><a href="https://theirf.org/am-site/media/behavioral-economics-nudge-guide.pdf" rel="noopener noreferrer nofollow">https://theirf.org/am-site/media/behavioral-economics-nudge-guide.pdf</a></p></li></ul>
+
+----
+
+Tags: nudging

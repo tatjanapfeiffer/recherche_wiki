@@ -1,0 +1,9 @@
+Title: Salienz
+
+----
+
+Definition: <p>Wenn man ein Bild betrachtet, gibt es Elemente, welche salienter sind als andere, also stärker hervorstehen als andere. Das sind jene, die einem “ins Auge springen”, also auffälliger sind als andere. Für die Betreiber einer Website ist einerseits wichtig, dass es Elemente gibt, die salient sind, also die Betrachtenden ansprechen und die Seite visuell interessant wirken lassen. Andererseits ist zu beachten, dass die richtigen Elemente salient gestaltet sind. Es ist am sinnvollsten, wenn jene Produkte ins Auge springen, von welchen man annimmt, dass sie am ehesten der Kundin gefallen und gekauft werden.</p><p>Es gibt eine Vielzahl an Techniken, um Salienz zu erzeugen. Jedoch ist die Funktionsweise stets dieselbe: Muster, an welche sich die Besucher einer Website gewöhnt haben, sollen gebrochen werden, da dies Aufmerksamkeit generiert.</p>
+
+----
+
+Tags: 
