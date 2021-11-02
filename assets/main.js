@@ -1,3 +1,25 @@
+function throttle(callback, wait, immediate = false) {
+  let timeout = null;
+  let initialCall = true;
+
+  return function () {
+    const callNow = immediate && initialCall;
+    const next = () => {
+      callback.apply(this, arguments);
+      timeout = null;
+    };
+
+    if (callNow) {
+      initialCall = false;
+      next();
+    }
+
+    if (!timeout) {
+      timeout = setTimeout(next, wait);
+    }
+  };
+}
+
 const filterButton = document.querySelectorAll(".filter-button");
 const alleButton = document.querySelector(".alle-button");
 
@@ -5,6 +27,7 @@ filterButton.forEach(function (button) {
   button.addEventListener("click", function () {
     filterButtonZuruecksetzen();
     removeSearch();
+    document.querySelector(".Suche").value = "";
     alleButton.classList.remove("aktiv");
 
     filterAnwenden(button.dataset.tag);
@@ -79,6 +102,32 @@ document
   .addEventListener("click", function () {
     document.querySelector(".sidebar").classList.remove("collapse");
   });
+
+// document.querySelector(".heat-map-wrapper").style.height =
+//   document.body.scrollHeight + "px";
+
+// // create a heatmap instance
+// const heatmap = h337.create({
+//   container: document.querySelector(".heat-map"),
+//   radius: 60,
+// });
+
+// document.body.addEventListener(
+//   "mousemove",
+//   throttle(function (event) {
+//     heatmap.addData({
+//       x: event.layerX,
+//       y: event.layerY,
+//     });
+//   }, 500)
+// );
+
+document.body.addEventListener("click", function (event) {
+  heatmap.addData({
+    x: event.layerX,
+    y: event.layerY,
+  });
+});
 
 /*Zeile für css print*/
 // document

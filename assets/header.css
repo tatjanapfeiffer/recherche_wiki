@@ -1,0 +1,49 @@
+.header {
+  top: 0;
+  height: var(--content-top);
+  background-color: white;
+  position: sticky;
+  width: 100%;
+  padding: 1vh;
+  z-index: 4;
+  align-items: center;
+  border-bottom: 0.1vh solid blue;
+  font-family: var(--Playfair);
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.title {
+  font-size: 2vw;
+  padding: 1vh;
+  margin: var(--margin-content);
+  font-family: var(--Montserrat);
+}
+
+.profile {
+  right: 0;
+}
+
+.Suche-box {
+  margin: var(--margin-content);
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+}
+
+.Suche {
+  left: 44vw;
+  width: 25vw;
+  position: sticky;
+  background-color: transparent;
+  height: fit-content;
+  font-size: 1.5vh;
+  font-family: "Comfortaa", cursive;
+  padding: 1vh;
+  border: 0.1vh solid blue;
+  border-radius: 3vh;
+}
+
+#search-btn {
+}

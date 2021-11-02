@@ -6,6 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title><?= $site->title() ?></title>
   <?= css('assets/main.css') ?>
+  <?= css('assets/heatmap.css') ?>
   <!-- <?= css('assets/printcss.css') ?> -->
 	<link rel="preconnect" href="https://fonts.gstatic.com">
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -18,5 +19,6 @@
       rel="stylesheet">
   <script src="assets/lozad.min.js"></script>
   <script src="assets/suche.js"></script>
+  <script src="assets/heatmap.js" type="text/javascript"></script>
 </head>
 <body>

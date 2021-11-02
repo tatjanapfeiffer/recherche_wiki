@@ -1,12 +1,18 @@
 @import "./sidebar.css";
+@import "./header.css";
 
-body,
 html {
   width: 100%;
+  height: 100%;
   margin: 0;
   hyphens: auto;
   /*  background-color: red;
 */
+}
+
+body {
+  width: 100%;
+  overflow-y: scroll;
 }
 
 * {
@@ -31,7 +37,7 @@ html {
   --margin-content: 0.6vh;
   --bottom-margin-content: 2vh;
   --top-margin-content: 2vh;
-  --padding-content: 2vh;
+  --padding-content: 1.5vh;
   --fliesstext-size: 1.7vh;
   --fliesstext-line-height: 1.2em;
   --Playfair: "Playfair+Display", italic;
@@ -39,82 +45,8 @@ html {
   --Montserrat: "Montserrat";
 }
 
-.header {
-  top: 0;
-  height: auto;
-  background-color: white;
-  position: sticky;
-  width: 100%;
-  padding: 1vh;
-  z-index: 4;
-  border-bottom: 0.1vh solid blue;
-  font-family: var(--Playfair);
-  display: flex;
-  flex-direction: row;
-  justify-content: space-between;
-}
-
 .content {
   display: flex;
-}
-
-.material-icons {
-  font-family: "Material Icons";
-  font-weight: normal;
-  font-style: normal;
-  font-size: 24px; /* Preferred icon size */
-  display: inline-block;
-  line-height: 1;
-  text-transform: none;
-  letter-spacing: normal;
-  word-wrap: normal;
-  white-space: nowrap;
-  direction: ltr;
-
-  /* Support for all WebKit browsers. */
-  -webkit-font-smoothing: antialiased;
-  /* Support for Safari and Chrome. */
-  text-rendering: optimizeLegibility;
-
-  /* Support for Firefox. */
-  -moz-osx-font-smoothing: grayscale;
-
-  /* Support for IE. */
-  font-feature-settings: "liga";
-}
-
-.title {
-  font-size: 2vw;
-  padding: 1vh;
-  margin: var(--margin-content);
-  font-family: var(--Montserrat);
-}
-
-.profile {
-  right: 0;
-}
-
-.Suche-box {
-  margin: var(--margin-content);
-  display: flex;
-  gap: 1rem;
-  align-items: center;
-}
-
-.Suche {
-  left: 44vw;
-  width: 40vw;
-  position: sticky;
-  background-color: transparent;
-  height: fit-content;
-  font-size: 1.5vh;
-  font-family: "Comfortaa", cursive;
-  padding: 1vh;
-  border: 0.1vh solid blue;
-  border-radius: 3vh;
-}
-
-#search-btn {
 }
 
 .notshown {

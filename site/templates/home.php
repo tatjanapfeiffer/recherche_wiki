@@ -6,23 +6,33 @@ $alleTags = $site->index()->pluck("tags", ",", true);
 <?php snippet('header') ?>
 <div class="header">
   <div class="title">Verhaltensbeeinflussende Gestaltung</div>
+
   <div class="Suche-box">
-    <input class="Suche" class="material-icons aktiv" id="search-btn">
-      <span class="material-icons aktiv" id="search-btn">search</span>
+    <input class="Suche" class="material-icons aktiv" placeholder="Search...">
     </input>
   </div>
 </div>
+<!-- <div class="heat-map-wrapper">
+  <div class="heat-map"></div>
+</div> -->
+<div class="profile">
+  <div class="profile-image"></div>
+  <div class="name"></div>
+</div>
+
 
 
 <div class="content">
   <div class="sidebar">
-   <div class="hamburger wackel" id="open-filter-box">>></div>
-    <div class="hamburger wackel" id="close-filter-box"><<</div>
-    <div class="filter-box">
-      <button class="alle-button aktiv filter-button wackel">Alle</button>
-      <?php foreach($alleTags as $tag): ?>
-        <button class="filter-button wackel" data-tag="<?= $tag ?>"><?= $tag ?></button>
-      <?php endforeach ?>
+    <div class="sidebar-content">
+      <div class="hamburger wackel" id="open-filter-box">>></div>
+      <div class="hamburger wackel" id="close-filter-box"><<</div>
+      <div class="filter-box">
+        <button class="alle-button aktiv filter-button wackel">Alle</button>
+        <?php foreach($alleTags as $tag): ?>
+          <button class="filter-button wackel" data-tag="<?= $tag ?>"><?= $tag ?></button>
+        <?php endforeach ?>
+      </div>
     </div>
   </div>
 
