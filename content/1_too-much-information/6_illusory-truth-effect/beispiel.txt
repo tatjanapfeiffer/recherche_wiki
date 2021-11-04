@@ -1,0 +1,13 @@
+Title: Illusory truth effect
+
+----
+
+Text: <p>The&nbsp;<em>illusory truth effect</em>, also known as the illusion of truth, describes how, when we hear the same false information repeated again and again, we often come to believe it is true. Troublingly, this even happens when people should know better—that is, when people initially know that the misinformation is false.</p><p>Imagine there’s been a cold going around your office lately, and you really want to avoid getting sick. Over the years, you’ve heard a lot of people say that taking vitamin C can help prevent sickness, so you stock up on some tasty orange-flavored vitamin C gummies. You later find out that there’s no evidence vitamin C prevents colds (though it might make your colds go away sooner!).<br><br>But the strategy adopted by Donald Trump and his campaign—to repeatedly tout the benefits of a specific drug, hydroxychloroquine, before they were clinically proven—looks like an attempt to capitalize on the illusory truth effect. For months, Trump endlessly sung the praises of hydroxychloroquine, prompting tens of thousands of patients to request prescriptions from their doctors.15&nbsp;Even now, with clinical trials showing that the drug is not effective to treat COVID-19,16&nbsp;the belief that it works is still widespread. Trump’s claims were also repeated by public figures like Dr. Oz, increasing people’s exposure to them as well as giving them a veneer of legitimacy (Oz is an actual medical doctor).</p><ul><li><p><a href="https://behavioralpolicy.org/wp-content/uploads/2017/05/BSP" rel="noopener noreferrer nofollow">https://behavioralpolicy.org/wp-content/uploads/2017/05/BSP</a><em>vol1is1</em>Schwarz.pdf</p><p></p></li></ul>
+
+----
+
+Links: 
+
+----
+
+Tags: We notice things already primed in memory or repeated often

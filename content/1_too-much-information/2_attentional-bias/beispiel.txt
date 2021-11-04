@@ -1,0 +1,13 @@
+Title: Attentional bias
+
+----
+
+Text: <p>The&nbsp;<em>attentional bias</em>&nbsp;describes our tendency to focus on certain elements while ignoring others. Research has shown that many different factors can bias our attention, from external events and stimuli (such as a perceived threat to our safety) to internal states (such as hunger or sadness). <br><strong><br></strong>Let’s say you want to improve your diet, so you decide to reduce the amount of sugar you eat. To work towards this goal, you resolve to buy fewer desserts when you go grocery shopping. However, one week, you have a particularly busy schedule, and you end up doing your grocery shopping at the end of a work day, before you’ve had a chance to eat dinner. You try your very best to take your mind off the junk food aisle, but you can’t seem to stop thinking about your favourite snacks. Eventually, you cave and throw a couple of boxes of cookies into your cart, which you later end up eating.</p>
+
+----
+
+Links: <ul><li><p><a href="https://thedecisionlab.com/biases/attentional-bias/" rel="noopener noreferrer nofollow">https://thedecisionlab.com/biases/attentional-bias/</a></p></li></ul>
+
+----
+
+Tags: We notice things already primed in memory or repeated often

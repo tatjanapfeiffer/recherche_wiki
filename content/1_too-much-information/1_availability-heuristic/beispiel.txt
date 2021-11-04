@@ -1,0 +1,13 @@
+Title: Availability heuristic
+
+----
+
+Text: <p>The<em>&nbsp;availability heuristic&nbsp;</em>describes our tendency to use information that comes to mind quickly and easily when making decisions about the future.<br></p><p>Imagine you are considering either John or Jane, two employees at your company, for a promotion. Both have a steady employment record, though Jane has been the highest performer in her department during her tenure. However, in Jane’s first year, she unwittingly deleted a company project when her computer crashed. The vivid memory of having lost that project likely weighs more heavily on the decision to promote Jane than it should. This is due to the availability heuristic, which suggests that singular memorable moments have an outsized influence on decisions.</p>
+
+----
+
+Links: <ul><li><p><a href="https://thedecisionlab.com/biases/availability-heuristic/" rel="noopener noreferrer nofollow">https://thedecisionlab.com/biases/availability-heuristic/</a></p></li></ul>
+
+----
+
+Tags: We notice things already primed in memory or repeated often

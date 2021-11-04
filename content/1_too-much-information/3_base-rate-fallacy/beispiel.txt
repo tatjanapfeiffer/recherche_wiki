@@ -1,0 +1,9 @@
+Title: Base rate fallacy
+
+----
+
+Text: <p>When provided with both individuating information, which is specific to a certain person or event, and base rate information, which is objective, statistical information, we tend to assign greater value to the specific information and often ignore the base rate information altogether. This is referred to as the&nbsp;<em>base rate fallacy</em>, or base rate neglect.</p><p>Daniel Kahneman and Amos Tversky once conducted a study where participants were presented with a personality sketch of a fictional graduate student referred to as Tom W. They were given a list of nine areas of graduate studies, and told to rank them in order of likelihood that that is the field in which Tom W. is pursuing his studies. At the time when this study was conducted, far more students were enrolled in education and the humanities than in computer science. However, 95% of participants said it was more likely that Tom W. was studying computer science than education or humanities. Their predictions were based purely on the personality sketch – the individuating information – with total disregard for the base rate information.</p>
+
+----
+
+Tags: We notice things already primed in memory or repeated often

@@ -12,9 +12,6 @@ $alleTags = $site->index()->pluck("tags", ",", true);
     </input>
   </div>
 </div>
-<!-- <div class="heat-map-wrapper">
-  <div class="heat-map"></div>
-</div> -->
 <div class="profile">
   <div class="profile-image"></div>
   <div class="name"></div>
@@ -30,7 +27,7 @@ $alleTags = $site->index()->pluck("tags", ",", true);
       <div class="filter-box">
         <button class="alle-button aktiv filter-button wackel">Alle</button>
         <?php foreach($alleTags as $tag): ?>
-          <button class="filter-button wackel" data-tag="<?= $tag ?>"><?= $tag ?></button>
+          <button class="filter-button wackel" data-tag="<?= Str::slug($tag) ?>"><?= $tag ?></button>
         <?php endforeach ?>
       </div>
     </div>

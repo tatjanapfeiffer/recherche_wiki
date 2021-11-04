@@ -1,0 +1,13 @@
+Title: Cue-dependent forgetting
+
+----
+
+Text: <p>Forgetting that occurs when there are insufficient retrieval cues to rekindle information that is in memory (Tulving &amp; Thompson, 1983). For example, you may not be able to remember where you lost a set of keys until you mentally walk through your day, thinking of each place you visited. When you think of the place where you lost the keys – say, the library – the retrieval cue of the library may be sufficient to help you recall that you left them on the desk in the library. Without that retrieval cue, you may be unable to recall the location of the keys.</p>
+
+----
+
+Links: <ul><li><p><a href="https://the-definition.com/term/cue-dependent-forgetting" rel="noopener noreferrer nofollow">https://the-definition.com/term/cue-dependent-forgetting</a></p></li></ul>
+
+----
+
+Tags: We notice things already primed in memory or repeated often
