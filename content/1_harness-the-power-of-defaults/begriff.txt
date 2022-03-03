@@ -1,0 +1,13 @@
+Title: Harness the power of defaults.
+
+----
+
+Definition: <p>We have a strong tendency to stick with the ‘default’ option, which is the outcome that occurs if we do not choose otherwise. Understanding the default and how it can be changed can significantly improve uptake of a service.</p><p></p><p>While [some of the examples] relate to the way that whole systems are designed and operate, many defaults are subtler in nature. Indeed, every policy area will have many default settings and options that can be set to support a particular outcome.These include, for example, the information that is requested first in a form (information up front will draw most attention); the size of plates in hotel buffets (smaller plates result in less food consumed and less waste); whether heating systems need to be turned off or automatically switch themselves off at particular points in the day.</p>
+
+----
+
+Tags: 1-make-it-easy
+
+----
+
+Text: <p>Similarly, organ donation schemes can be set to automatically enrol people.</p>

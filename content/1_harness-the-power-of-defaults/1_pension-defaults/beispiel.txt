@@ -1,0 +1,9 @@
+Title: Pension defaults
+
+----
+
+Text: <p>In October 2012 UK employers started automatically enrolling their workers into a pension. The scheme started with the largest UK employers (250 or more workers) and by 2018 will cover all employers. Initial results show that the overall rate rose from 61% to 83% and 400,000 more people now have a pension.</p>
+
+----
+
+Tags: 1-make-it-easy

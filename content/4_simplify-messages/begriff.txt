@@ -1,0 +1,9 @@
+Title: Simplify messages
+
+----
+
+Definition: <p>Making the message clear often results in a significant increase in response rates to communications. In particular, it’s useful to identify how a complex goal can be broken down into simpler, easier actions.</p><p>(...)when learning to drive a car, the discrete actions of ‘ignition’, ‘clutch’, ‘handbrake’ become ‘start the car’.</p><p>Policy makers need to identify how the desired action can be boiled down to specific, simple steps.</p><p>The Team has identified five main lessons from its simplification work:     </p><p>Make sure that the key message is presented early, ideally in the first sentence or subject line;   Keep language simple; <br>Be specific about recommended actions;   <br>Provide a single point of contact for responses;   <br>Remove all information that is not absolutely necessary for performing the action.</p>
+
+----
+
+Tags: 1-make-it-easy

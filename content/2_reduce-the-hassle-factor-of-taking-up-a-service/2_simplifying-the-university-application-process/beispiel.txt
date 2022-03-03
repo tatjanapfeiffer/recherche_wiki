@@ -1,0 +1,13 @@
+Title: Simplifying the university application process
+
+----
+
+Text: <p>Process simplifications have recently been shown to help underrepresented groups go to university, in particular by making it easier for potential applicants from low-income groups to apply for financial assistance. </p><p>This change involved providing personal assistance to individuals (parents of potential university applicants or the applicants themselves), which included automation and streamlining of parts of the process and testing this against no help and the provision of information alone (with no streamlining or automation). Applicants whose parents received the support were eight percentage points more likely to have attended university in the year following the intervention. In contrast, simply providing information did not increase attendance.</p>
+
+----
+
+Links: <ul><li><p><a href="https://www.nber.org/digest/feb10/help-aid-applications-raises-college-attendance" rel="noopener noreferrer nofollow">https://www.nber.org/digest/feb10/help-aid-applications-raises-college-attendance</a></p></li></ul>
+
+----
+
+Tags: 1-make-it-easy

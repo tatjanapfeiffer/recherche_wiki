@@ -1,0 +1,13 @@
+Title: Predicting heart attacks
+
+----
+
+Text: <p>Using a ‘fast and frugal tree’ to reduce the number of factors that clinicians have to consider significantly increases the accuracy of predicting heart attacks, compared to more complex systems that try to account for many risk factors.</p>
+
+----
+
+Links: <ul><li><p><a href="https://argondigital.com/blog/product-management/visual-models-save-lives-how-a-decision-tree-revolutionized-heart-attack-diagnosis-2/" rel="noopener noreferrer nofollow"> </a><u><a href="https://argondigital.com/blog/product-management/visual-models-save-lives-how-a-decision-tree-revolutionized-heart-attack-diagnosis-2" rel="noopener noreferrer nofollow">https://argondigital.com/blog/product-management/visual-models-save-lives-how-a-decision-tree-revolutionized-heart-attack-diagnosis-2</a>/</u></p></li></ul>
+
+----
+
+Tags: 1-make-it-easy

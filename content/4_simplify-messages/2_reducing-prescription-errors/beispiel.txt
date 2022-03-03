@@ -1,0 +1,9 @@
+Title: Reducing prescription errors
+
+----
+
+Text: <p>Prescribing errors affect an estimated 50% of admissions in hospitals using paper-based prescription charts (Lewis et al. 2009). There are concerns that such forms lead to medication errors by clear communication between professionals. For example, it may be impossible to distinguish between milligrams and micrograms when written out by hand in a hurry.</p>
+
+----
+
+Tags: 1-make-it-easy

@@ -5,7 +5,7 @@ $alleTags = $site->index()->pluck("tags", ",", true);
 
 <?php snippet('header') ?>
 <div class="header">
-  <div class="title">220303_Powerful Tools_blaa</div>
+  <div class="title">Powerful Tools</div>
 
   <div class="Suche-box">
     <input class="Suche" class="material-icons aktiv" placeholder="Search...">
@@ -38,7 +38,7 @@ $alleTags = $site->index()->pluck("tags", ",", true);
 
   <div class="begriffe">
     <div class="no-results-info">No results</div>
-    <?php foreach($site->children()->filterBy('intendedTemplate', 'begriff')->sortBy('title') as $begriff): ?>
+    <?php foreach($site->children()->filterBy('intendedTemplate', 'begriff') as $begriff): ?>
       <div
         id="begriff-<?= $begriff->slug() ?>"
         class="begriff <?php snippet('tags', ['tags' => $begriff->tags()]) ?>"

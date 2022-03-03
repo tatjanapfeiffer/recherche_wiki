@@ -19,7 +19,7 @@
 
 #open-filter-box {
   display: none;
-  transform: rotate(90deg);
+  /* transform: rotate(90deg); */
 }
 
 .filter-box {
@@ -58,11 +58,12 @@
 }
 
 .sidebar.collapse #open-filter-box {
-  display: block;
+  display: inline;
+  padding: 1vh;
 }
 
 .sidebar.collapse {
-  width: 2.5rem;
+  width: 3.5rem;
   -webkit-transition: 0.5s;
   transition: 0.5s;
 }

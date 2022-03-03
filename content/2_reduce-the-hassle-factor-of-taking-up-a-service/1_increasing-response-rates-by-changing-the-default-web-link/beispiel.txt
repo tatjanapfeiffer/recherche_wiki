@@ -1,0 +1,9 @@
+Title: Increasing response rates by changing the default web-link
+
+----
+
+Text: <p>The Behavioural Insights Team has run a series of trials with HMRC that sought to improve tax collection rates by making it easier for individuals to pay. One of the simplest interventions involved the impact of directing letter recipients straight to the specific form they were required to complete, as opposed to the web page that included the form. This change only slightly reduces the difficulty of responding. Yet we found that this simple act of making the action easier had an unexpectedly large impact. Sending individuals directly to the form increased response rates from 19% to 23%.</p>
+
+----
+
+Tags: 1-make-it-easy
