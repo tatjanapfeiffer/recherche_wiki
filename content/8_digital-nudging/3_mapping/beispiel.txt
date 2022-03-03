@@ -1,9 +1,0 @@
-Title: Mapping
-
-----
-
-Text: <p><em>Mapping </em>refers to a design principle with the objective to support and improve individuals’ ability to map and then select options (Thaler, Sunstein &amp; Balz, 2014). It is even more crucial to support mapping in complex settings, in order to evaluate and possibly take a crucial decision (Weinmann, Schneider &amp; vom Brocke, 2016). Thaler, Sunstein, and Balz (2014) mention that one potential route to support and improve humans ability to map and select options is to make information more comprehensible. One example described through a scenario is, if an individual aim to purchase a camera it could be problematic for the user to translate megapixels into reasonable terms that help one order their preferences (Thaler, Sunstein &amp; Balz, 2014), and possibly research their primary task. Further, they argue that mapping is a regular issue in consumer electronic decisions, and these scenarios are common in e-commerce environments.&nbsp;<br><br>siehe auch: Don Norman --&gt; Herdplatten oder Türen</p>
-
-----
-
-Tags: produktdesign, grafikdesign, nudging

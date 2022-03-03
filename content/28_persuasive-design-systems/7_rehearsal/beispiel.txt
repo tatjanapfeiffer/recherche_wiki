@@ -1,9 +1,0 @@
-Title: Rehearsal
-
-----
-
-Text: <p>The design principle <em>rehearsal </em>refers to a system that provides users with the opportunity to rehearse a behavior in order to enable them to adjust their attitudes or behavior in practice (Oinas-Kukkonen &amp; Harjumaa, 2009). Therefore, a system is required to offer means for rehearsing a target behavior to facilitate persuasion (Oinas-Kukkonen &amp; Harjumaa, 2009). Further, the scholars provide an example of rehearsal and suggest that a flying simulator supports pilots to rehearse and practice difficult weather conditions. Rehearsal allows users to adjust their attitudes and behavior through rehearsing and practice of an action (Oinas-Kukkonen &amp; Harjumaa, 2009).&nbsp;<br><br>(Castmo and Persson&nbsp;S.12)</p>
-
-----
-
-Tags: technologie, persuasion

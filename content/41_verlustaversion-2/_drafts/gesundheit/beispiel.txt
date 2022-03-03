@@ -1,9 +1,0 @@
-Title: Gesundheit
-
-----
-
-Text: <p>90% Überlebensrate vs 10% Sterberate</p>
-
-----
-
-Tags: 

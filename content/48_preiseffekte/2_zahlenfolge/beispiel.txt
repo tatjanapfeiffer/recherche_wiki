@@ -1,9 +1,0 @@
-Title: Zahlenfolge
-
-----
-
-Text: <p>Der linke Preis mit der&nbsp;<strong>abfallenden Zahlenreihe</strong>&nbsp;wird im Vergleich zur aufsteigenden Reihenfolge günstiger empfunden. Der eigentliche Preisunterschied ist hingegen gering. Er macht gerade einmal 0.5 Prozent aus. Dennoch würde der linke Preis deutlich öfter akzeptiert werden. Nun mag man geneigt sein zu sagen ja natürlich – ist ja auch günstiger! Wenn aber der rechte Preis in nehmen wir an 50 Prozent der Fälle als inakzeptabel angesehen werden würde, der linke lediglich in 30 Prozent der Fälle, so könnte diese Diskrepanz sicherlich nicht auf diesen minimalen Preisunterschied zurückgeführt werden.</p><p>Zusätzliche Aufmerksamkeit erzeugen im übrigen Preise, die aus einer Folge gleicher Zahlen bestehen. Etwa ein Preis von € 22,22 oder eben auch € 99,99. Hierbei werden spezielle Bereiche des Gehirns aktiviert. Im Falle der € 99,99 Euro vereinen sich dann der Effekt des Schwellenpreises und dieser sogenannte Figureneffekt.</p><p>Vor allem der Schwellenpreis, aber auch der Hebel der abfallenden Zahlenfolge haben sich auch im Online-Handel bereits durchgesetzt.</p>
-
-----
-
-Tags: 

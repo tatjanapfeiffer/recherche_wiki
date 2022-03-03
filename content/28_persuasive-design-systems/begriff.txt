@@ -1,9 +1,0 @@
-Title: Persuasive design (systems)
-
-----
-
-Definition: <p><em>Persuasive design systems </em>use psychological foundations to affect users in their decision-making. To create user engagement, designers labor with emotional and behavioral barriers in order to trigger a certain decision or behavior to occur (Gabrielsen, 2016). Persuasive design originates from the term <em>rhetoric, </em>which can be defined as one’s action performed by the use of symbols with the purpose of communicating with one another (Tørning, 2008). Further, Tørning (2008) states that rhetoric and persuasive technologies are related since both share the belief of addressing persuasion in a deliberate fashion. <br><br>(The alliance between Digital Nudging &amp; Persuasive Design Castmo and Persson, S.8)</p>
-
-----
-
-Tags: psychologie, marketing, grafikdesign, persuasion, nudging

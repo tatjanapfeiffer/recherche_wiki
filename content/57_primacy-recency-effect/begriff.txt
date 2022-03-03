@@ -1,9 +1,0 @@
-Title: Primacy-Recency Effect
-
-----
-
-Definition: <p>Wenn Sie einer Person eine Liste mit 20 Wörtern geben, die sie auswendig lernen soll, dann gibt es zwei Stellen der Liste, an die sich die Person am besten erinnern kann: An die ersten paar Wörter und an die letzten paar Wörter. Hingegen die Wörter in der Mitte werden am ehesten vergessen.</p><p>Das bedeutet für Ihre Website, dass Sie die Anordnung Ihrer Inhalte auf einer Landingpage durchdenken sollten. Platzieren Sie die spannendsten und informativsten Abschnitte Ihrer Beiträge zu Beginn und gegen Ende. Dadurch werden die Besucherinnen und Besucher die Website eher als spannend und informativ im Gedächtnis behalten, als wenn Sie mit weniger interessanten Abschnitten den Beitrag beenden. Ebenfalls sollten Sie Auflistungen von Fakten oder Kaufgründen zu einem Produkt entsprechend gliedern.</p>
-
-----
-
-Tags: 

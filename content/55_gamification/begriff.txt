@@ -1,9 +1,0 @@
-Title: Gamification
-
-----
-
-Definition: <p>Wahrscheinlich beschäftigt sich die meisten Menschen lieber mit Dingen, die uns unterhalten und Freude bereiten, als dass wir unangenehme und langweilige Aufgaben erledigen. Diese Überlegung ist der Grundsatz der Gamification. Dabei soll beim Ausführen einer langweiligen oder mühsamen Aufgabe die Motivation zur Vollendung oder erneuten Ausführung mittels spielerischen Elementen gefördert werden.</p><p>Es gibt vielerlei Möglichkeiten, um den Unterhaltungswert einer Website und eines Kaufprozesses zu steigern. Die Website kann zum Beispiel mit Mikrointeraktionen und dynamischen Inhalten wie Feedbackanimationen angereichert werden, die das Entdecken von Produkten und das Unternehmen spannender macht.</p><p>Andererseits gilt es negative Erlebnisse wie lange Ladezeiten oder Ladefehler zu vermeiden und sonst unterhaltsam und witzig erklärt werden. Schlussendlich geht es stets darum, den Nutzern ein positives Gefühl beim Erfüllen einer Aufgabe zu geben.<br>Die Gamefication kann ebenfalls in der Kundenbindung eingesetzt werden. Zum Beispiel indem der Kundschaft nach Kaufabschluss eine Auszeichnung (“10. Einkauf im Jahr 2020”) oder eine Rangliste mit einem Vergleich zur restlichen Kundschaft dargestellt wird.<br></p><p>(<a href="https://www.websennsation.ch/blog/behaviour-patterns-im-webdesign/" rel="noopener noreferrer nofollow">https://www.websennsation.ch/blog/behaviour-patterns-im-webdesign/</a>, 25.06.21)</p>
-
-----
-
-Tags: 

@@ -1,9 +1,0 @@
-Title: Stereotypen
-
-----
-
-Text: <ul><li><p>Nationalitäten</p></li><li><p>Geschlecht</p></li><li><p>Umfeld</p></li><li><p>Religion</p></li><li><p>Beruf</p><ul><li><p>Arzt</p></li><li><p>Computerspezialist</p></li><li><p>Hausfrau</p></li></ul></li><li><p>Alter</p></li><li><p>Hobbies</p></li><li><p>Verhalten</p></li><li><p>Aussehen/Kleidung</p></li><li><p>Superhelden:<br> Unterschied Mann und Frau: Körperbild für Mädchen nicht zu erreichen.</p></li></ul>
-
-----
-
-Tags: 

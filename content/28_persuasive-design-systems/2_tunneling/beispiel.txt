@@ -1,9 +1,0 @@
-Title: Tunneling
-
-----
-
-Text: <p>[...] <a href="https://aisel.aisnet.org/cais/vol24/iss1/28/" target="_blank" rel="noopener noreferrer nofollow">Oinas-Kukkonen &amp; Harjumaa</a> (2009) defines tunneling as persuasion method by using design elements to guide users through a process or experience. The researchers also claim that tunneling requires the systems to guide users within the attitude change process, by allocating support for actions in order to bring the users closer to the target behavior. One example regarding tunneling mention by Oinas-Kukkonen and Harjumaa (2009) suggest that through the presentation and visualization of appropriate information the user is supported.&nbsp;</p>
-
-----
-
-Tags: grafikdesign, psychologie, technologie, big-data, persuasion

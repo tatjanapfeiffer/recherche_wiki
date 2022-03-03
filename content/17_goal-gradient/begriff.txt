@@ -1,9 +1,0 @@
-Title: Goal Gradient
-
-----
-
-Definition: <p>The theory suggests that people are more motivated to keep going when they can&nbsp;<strong>see how far they’ve come and how close they are to a goal.&nbsp;</strong></p><p>You could&nbsp;<strong><a href="https://blog.crobox.com/article/sales-funnel-optimization" rel="noopener noreferrer nofollow">drive conversions</a></strong>&nbsp;by showing progress on your checkout page, or (for loyalty programs) offer visible progress of reward points for customers that are logged in (<strong><a href="https://crobox.com/product/dynamic-messaging/" rel="noopener noreferrer nofollow">Dynamic Messages</a></strong>&nbsp;that can be leveraged on any eCommerce page).&nbsp;</p>
-
-----
-
-Tags: marketing, psychologie

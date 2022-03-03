@@ -1,9 +1,0 @@
-Title: Defaults oder Standardsettings
-
-----
-
-Text: <p>When presenting choices, there is no natural way because the design will influence the user’s behavior through the design (Mandel &amp; Johnson 2002; Sunstein 2015). All choice presentations have a <em>default</em>, even if it is often unspoken, the default option will be chosen more often than the other options (Johnson et al, 2012). According to Johnson and Goldstein (2003) the default option can save lives, in their study they changed the opt-in to opt-out, which resulted in that twice as many people become organ donors. The default option is often selected since people tend to take “the path of least resistance,” and proceed in their standard habits, even when they can make improvements (Lee, Kiesler &amp; Forlizzi, 2011).&nbsp;</p><p>siehe auch: Trägheitsprinzip und Don Norman Smartphones oder Cookieauswahl in Browsern</p>
-
-----
-
-Tags: technologie, nudging

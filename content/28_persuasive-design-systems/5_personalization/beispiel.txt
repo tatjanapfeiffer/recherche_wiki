@@ -1,9 +1,0 @@
-Title: Personalization
-
-----
-
-Text: <p>Another persuasive design principle is <em>personalization</em>, which is associated with the idea that a system that provides personalized content or even services has a prominent potential to persuade users (Oinas-Kukkonen &amp; Harjumaa, 2009). Personalization has been questioned by research to intrude on individuals privacy, Volokh (2000) even ask the question if personalization jeopardize one’s privacy. In this case, personalization is applied to the web, and therefore <em>web-personalization </em>is emphasized. Web-personalization can be viewed as an action that will make the experience personalized based on the user’s thoughts and beliefs (Mobasher, Cooley &amp; Srivastava, 2000). Further, the action ranges from easy to more complex, for example the action can be as simple as making the presentation of the web object more pleasing to an individual (Mobasher, Cooley &amp; Srivastava, 2000).&nbsp;<br><br>Aber auch: </p><p>(...)Das im Zuge der zunehmenden Personalisierung von (auch kommunikativen) Angeboten beobachtbare Anwachsen von ‚Filterblasen‘ (Pariser 2011) und ‚Echokammern‘ (Shadegg 1964) kann die Erwartung unterminieren, mit eigenen Äußerungen oder Handlungen eine Wirkung in der Welt erzeugen zu können. Individuen, Gruppen und sogar Organisationen müssen nun damit rechnen, dass ihre Äußerungen oder Handlungen einen Teil ihrer jeweiligen Zielgruppe nicht erreicht, da dieser in einer Filterblase ‚gefangen‘ ist, aus der die betreffende Äußerungen oder Handlungen gerade ausgefiltert werden.&nbsp;(...)</p><p>Stichwort: </p>
-
-----
-
-Tags: persuasion, big-data

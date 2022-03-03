@@ -1,9 +1,0 @@
-Title: Selbstbeobachtung und Selbstbeeinflussung
-
-----
-
-Text: <p>Ein erstes Feld individueller Lebensführung, in dem Instrumente Big-Data-gestützter Verhaltensbeeinflussung zunehmend zum Einsatz kommen, ist Gesundheit, Fitness und Ernährung.&nbsp;<br>Anschließend werden diese Rohinformationen durch Algorithmen interpretiert – Daten von Beschleunigungssensoren werden etwa als Schritte oder als Bewegungen während des Schlafs gedeutet (Crawford et al. 2015: 484f.) –, aggregiert und über ein grafisches Interface an die Nutzer<em>innen zurückgespielt. Das Ziel dieser Anwendungen ist zumeist, Nutzer</em>innen zur Optimierung der ausgewerteten Körperdaten zu animieren, etwa durch Sport oder eine gesündere Ernährung.&nbsp;</p><p><strong>Mechanismen der Beeinflussung</strong></p><ol><li><p>die Darstellung der gemessenen, aufbereiteten und vorinterpretierten Daten (Viseu/Suchman 2010);&nbsp;</p></li><li><p>kompetitive Vergleiche mit anderen, bekannten wie unbekannten Personen (Zillien et al. 2015);&nbsp;</p></li><li><p>personalisierte Aufforderungen an die Nutzer*innen, bestimmte Verhaltensweisen, etwa im Hinblick auf Bewegung und Ernährung, anzunehmen (siehe z.B. Rajanna et al. 2014).&nbsp;</p></li></ol>
-
-----
-
-Tags: produktdesign, psychologie, nudging

@@ -1,9 +1,0 @@
-Title: Expecting Errors
-
-----
-
-Text: <p>According to Thaler, Sunstein, and Balz (2014) a well-designed system expects its users to make mistakes, and should therefore be as forgiving as possible, in order to support the fact that humans commit errors. One common mistake people execute is called a post-completion error, which was introduced by Byrne and Bovair in 1997. Post-completion error refers to the idea that once the main task is done, humans often forget things that relate to the previous steps (Thaler, Sunstein &amp; Balz, 2014). One typical example of human error and especially post-completion error refers to human’s ability to leave and forget their credit card in the ATM machine after withdrawing cash, which refers to the fundamentals concerning the task. Consequently, expecting errors have adjusted the design of several ATM machines, now the credit card is received immediately after the card is controlled (Thaler, Sunstein &amp; Balz, 2014). In order to accomplish a desire, another step must first be performed, these ideas refer to another strategy namely <em>forcing function </em>and was presented by Norman (referenced in Thaler, Sunstein &amp; Balz, 2014). Further, it is important to support and facilitate human failure through the design principle <em>expecting errors</em>.&nbsp;</p>
-
-----
-
-Tags: nudging, produktdesign

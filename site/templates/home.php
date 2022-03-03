@@ -5,7 +5,7 @@ $alleTags = $site->index()->pluck("tags", ",", true);
 
 <?php snippet('header') ?>
 <div class="header">
-  <div class="title">220303_Powerful Tools</div>
+  <div class="title">220303_Powerful Tools_blaa</div>
 
   <div class="Suche-box">
     <input class="Suche" class="material-icons aktiv" placeholder="Search...">

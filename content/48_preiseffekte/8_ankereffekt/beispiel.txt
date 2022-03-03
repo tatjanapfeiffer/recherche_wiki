@@ -1,9 +1,0 @@
-Title: Ankereffekt
-
-----
-
-Text: <p>siehe Ankereffekt</p>
-
-----
-
-Tags: 

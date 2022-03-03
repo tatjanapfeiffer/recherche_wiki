@@ -1,9 +1,0 @@
-Title: Nudging
-
-----
-
-Definition: <p>Beim Nudging <em>[engl.&nbsp;"nudging" für&nbsp;"Anstoßen",&nbsp;"Schubsen"&nbsp;oder&nbsp;"Stupsen"] </em>bewegt man jemanden auf mehr oder weniger subtile Weise dazu, etwas Bestimmtes einmalig oder dauerhaft zu tun oder zu lassen. Dabei können Voreinstellungen und Standards (Defaults) ebenso zum Einsatz kommen wie Produktinformationen und Warenpräsentationen. Angestrebt werden die Verhaltensänderungen der Personen und Gruppen etwa von Unternehmen oder vom Staat.</p><p></p><p>Prinzipien sind:</p><p>Defaults,<br>Giving Feedback, (+Visible Goals)<br>Understanding mapping, <br>Anreize schaffen, <br>Structure complex choices, <br>Expecting Errors<br>reminders<br><br>(Castmo und Persson, S. 13)<br><br><br>Web:<br><br><a href="https://www.bi.team/what-we-do/" target="_blank" rel="noopener noreferrer nofollow">Behavioural Insights Team</a></p>
-
-----
-
-Tags: politik, nudging

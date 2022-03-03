@@ -1,9 +1,0 @@
-Title: Reduction
-
-----
-
-Text: <p><em>Reduction </em>makes a target behavior easier to achieve by breaking complex activity into smaller steps and by remove those steps that are not relevant and unnecessary (Kraft, Drozd &amp; Olsen, 2008). The greater the effort to accomplish a task, the less likely will the task be accomplished successfully because users often prefer the <em>path of least resistance </em>(Lidwell et al., 2012). The amount of information should help and support the user, it should also be focused to the specific activity or need of the user (Kraft, Drozd &amp; Olsen, 2008). A system that reduces complex behavior into simple tasks will make it easier for users to perform the target behavior (Oinas-Kukkonen &amp; Harjumaa, 2009). This principle is well established in e-commerce, for example Amazon.com is well known for their one-click shopping.&nbsp;<br>(The alliance between Digital Nudging &amp; Persuasive Design Castmo and Persson, S.11)</p>
-
-----
-
-Tags: psychologie, technologie, marketing, persuasion

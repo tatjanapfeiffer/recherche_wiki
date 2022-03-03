@@ -1,9 +1,0 @@
-Title: Geld
-
-----
-
-Text: <p>Lieferando: hier wird Bezug genommen auf soziale Normen und die Vorauswahl (siehe <a href="#begriff-digital-nudging-beispiel-defaults-oder-standardsettings" rel="noopener noreferrer nofollow">defaults</a>) wurde schon farblich markiert.</p>
-
-----
-
-Tags: marketing

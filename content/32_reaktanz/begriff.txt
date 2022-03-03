@@ -1,9 +1,0 @@
-Title: Reaktanz
-
-----
-
-Definition: <p>Die Reaktanztheorie beschreibt die psychologischen Folgen einer (subjektiv wahrgenommenen) Freiheitseinschränkung. Wenn eine Person also den Eindruck hat, dass (1) eine vorher existente und (2) ihr wichtige Freiheit, z.B. eine Wahl- oder Handlungsmöglichkeit, durch bestimmte Einflüsse oder Personen beeinträchtigt wird, kann wahrscheinlich mit Reaktanz gerechnet werden. Diese Beeinträchtigung kann z.B. dadurch entstehen, dass eine Option/ein Produkt nicht mehr verfügbar oder limitiert ist oder ein bestimmtes Verhalten verboten wird. Unter Reaktanz wird dann ein unangenehmer Spannungszustand verstanden, der irgendwie abgebaut werden muss und sich meist auf verschiedenen Ebenen äußert (Emotionen, Kognitionen, Verhalten). Personen reagieren z.B. verärgert oder wütend (Emotionen), verändern ihre Einstellungen bzw. Bewertungen von Dingen – meist wird die weggefallene Option als deutlich attraktiver als zuvor wahrgenommen (Kognitiv), zeigen evtl. demonstrativ das verbotene Verhalten oder verweigern die Beeinflussungsabsicht (Verhalten). Menschen reagieren also auf eine Einengung ihrer Freiheiten.</p>
-
-----
-
-Tags: psychologie, marketing

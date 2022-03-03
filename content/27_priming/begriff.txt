@@ -1,9 +1,0 @@
-Title: Priming
-
-----
-
-Definition: <p><strong>Priming</strong>&nbsp;&nbsp;[von&nbsp;<strong>englisch&nbsp;</strong>to prime= instruieren, vorbereiten], die verbesserte Fähigkeit zur Verarbeitung, Wahrnehmung oder Identifikation eines<u> </u>Reizes, die darauf beruht, daß dieser oder ein ähnlicher Reiz kurz zuvor bereits präsentiert wurde. Priming erhöht die Geschwindigkeit und Effizienz, mit denen Organismen mit einer vertrauten Umwelt interagieren, indem die Informationsverarbeitung durch frühere Erfahrungen gleichsam vorbereitet wurde. So werden z.B. im Experiment Wörter, sinnlose Buchstabenfolgen, Linien, Figuren oder Töne, die man früher schon gesehen oder gehört hat, häufiger oder schneller erkannt, wenn sie kurz erneut präsentiert werden (z.B. wenn sie 25 ms lang auf einen Bildschirm geblitzt werden).</p>
-
-----
-
-Tags: marketing

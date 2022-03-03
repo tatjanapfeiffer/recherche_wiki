@@ -1,9 +1,0 @@
-Title: Herstellung von Vergleichbarkeit
-
-----
-
-Text: <p>Ein dritter Modus der Gestaltung von Entscheidungsarchitekturen, der bei Anwendungen Big-Data-gestützter Verhaltensbeeinflussung zum Einsatz kommt, ist die Herstellung von Vergleichbarkeit für Dinge, deren Vergleich sonst hohen kognitiven Aufwand erfordern würde. Computergestützte Datenverarbeitung ermöglicht eine automatisierte „Kommensurabilisierung“ (Vormbusch 2007: 53) der unterschiedlichen Dinge, d.h. ihre Einordnung in einen gemeinsamen Bezugsrahmen, der es erlaubt, hierarchische Unterscheidungen zwischen einzelnen Dingen zu treffen. Im Unterschied zu Defaults und zur Vorselektion von Optionen zielt eine solche Herstellung von Vergleichbarkeit weniger auf die Ausnutzung unbewusster kognitiver Mechanismen als vielmehr auf die Vereinfachung bewusster Entscheidungen, v.a. in ökonomischen Fragen, durch die Reduktion von Komplexität. Es handelt sich in dieser Hinsicht eher um System-2- als um System-1-Nudges (siehe dazu Kahneman 2013; Sunstein 2016a).&nbsp; (ABIDA Gutachten S. 46)</p>
-
-----
-
-Tags: nudging

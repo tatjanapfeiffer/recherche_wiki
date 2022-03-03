@@ -1,9 +1,0 @@
-Title: Ökonomische Instrumente
-
-----
-
-Text: <p>Das Ziel der <strong>ökonomischen Instrumente</strong> ist (...), Marktpreise zu verändern. Das heißt, dass der Preis bei den ökonomischen Instrumenten den zugrunde liegenden Koordinierungsmechanismus darstellt. Beispiele für dieses Regulierungsinstrument sind <strong>Preislösungen </strong>wie etwa Umweltsteuern und -abgaben als negative ökonomische Anreize oder Subventionen und finanzielle Förderprogramme als positive ökonomische Anreize. Handelbare Emissionsrechte (wie der seit 2005 bestehende Emissionshandel in der EU) stellen ein weiteres ökonomisches Instrument dar. Im Gegensatz zu Preislösungen handelt es sich hierbei um eine <strong>Mengenlösung</strong>. Hierbei wird die insgesamt zulässige Emissionsmenge definiert und es wird dem Markt überlassen, welcher Preis von Umweltnutzungen sich in diesem System herausbildet (OECD, 2010b, S. 38; Simonis, 2001, S. 8). Mengenlösungen sind zumindest theoretisch mit einer höheren Sicherheit hinsichtlich der Erreichung spezifischer Ziele verbunden (Pfaller, 2010, S. 4). Preislösungen haben jedoch den Vorteil, dass mit ihnen eine höhere Sicherheit hinsichtlich der Kosten oder des Preises politischer Ziele einhergehen und sie einfacher umzusetzen sind (Europäische Kommission, 2007, S. 4).&nbsp;</p>
-
-----
-
-Tags: nudging, politik, umwelt

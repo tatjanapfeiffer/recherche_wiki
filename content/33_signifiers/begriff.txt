@@ -1,9 +1,0 @@
-Title: Signifiers
-
-----
-
-Definition: <p>Signifiers signalisieren Dinge, insbesondere mögliche Aktionen und wie diese durchgeführt werden sollten. Signifiers müssen wahrnehmbar sein, ansonsten sind sie nutzlos. (Don Norman)</p>
-
-----
-
-Tags: psychologie, produktdesign, grafikdesign

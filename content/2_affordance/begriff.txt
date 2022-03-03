@@ -1,9 +1,0 @@
-Title: Affordance
-
-----
-
-Definition: <p><strong>Affordanz, affordance </strong><em>(Angebot)</em>, ein von Gibson geprägter Begriff, den er von "afford" (anbieten, gewähren) ableitet und selbst geprägt hat, der als Hauptwort in einem englischen Wörterbuch nicht zu finden ist und die Komplementarität von Umwelt und Lebewesen zum Ausdruck bringen soll. Nach Gibson handelt es sich um ein Angebot der Natur bzw. um eine Handlungsanregung aufgrund der Informationen über funktionell relevante Eigenschaften von Dingen und Bestandteilen der Umwelt, die ein bestimmtes Verhalten möglich machen. Die Dinge sagen uns, was wir mit ihnen tun sollen;</p><p><strong>Affordances</strong> sind mögliche Interaktionen zwischen Menschen und ihrer Umgebung. Einige Affordances sind wahrnehmbar, andere nicht.</p><p><strong>Affordance</strong> <em>(dt.: Angebotscharakter)</em> ist die von einem Objekt angebotene Gebrauchseigenschaft für Menschen. Ein Button zum Beispiel, hat durch seine leicht erhöhte Gestaltung den Angebotscharakter, dass dieser gedrückt werden kann. Mit einer Wisch-Geste den Button zu bedienen gehört nicht zum Angebotscharakter. Ein Türgriff in der richtigen Grösse und an der richtigen Position suggeriert, dass dieser gedrückt werden kann.</p>
-
-----
-
-Tags: produktdesign, technologie
