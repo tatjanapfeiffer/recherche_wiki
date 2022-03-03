@@ -5,7 +5,7 @@ $alleTags = $site->index()->pluck("tags", ",", true);
 
 <?php snippet('header') ?>
 <div class="header">
-  <div class="title">the good/bad side</div>
+  <div class="title">220303_Powerful Tools</div>
 
   <div class="Suche-box">
     <input class="Suche" class="material-icons aktiv" placeholder="Search...">
