@@ -2,7 +2,11 @@ Title: Social Norm in Tax payment
 
 ----
 
-Text: <p>The Behavioural Insights Team and HMRC have run a series of trials where including factual statements that most people had already paid their tax increased tax payment rates.</p>
+Text: <p>The Behavioural Insights Team and HMRC have run a series of trials where including factual statements that most people had already paid their tax increased tax payment rates.</p><p></p><p>Working within HMRC’s existing processes, we randomized five messages across 100,000 individual taxpayers: three normbased messages and two public goods messages. The former are: (i) “Nine out of ten people pay their tax on time” (basic norm); (ii) “Nine out of ten people in the UK pay their tax on time” (country norm); (iii) “Nine out of ten people in the UK pay their tax on time. You are currently in the very small minority of people who have not paid us yet” (minority norm). The latter are: (iv) “Paying tax means we all gain from vital public services like the NHS, roads, and schools” (gain); (v) “Not paying tax means we all lose out on vital public services like the NHS, roads, and schools” (loss). The experimental results show that social norm and public goods messages increase the likelihood of individuals paying their declared tax liabilities, with large differences observed within the norm messages. For example, the basic norm statement produces a treatment effect of 1.3% (0.025σ), and the country norm statement produces a treatment effect of 2.1% (0.038σ)— these effects lead to a £623,000 and £980,000 increase in total taxes paid within 23 days. In comparison, the minority norm statement produces a much larger treatment effect of 5.1% (0.1σ), which represents a £2.367 million increase in taxes paid within 23 days. In terms of gain and loss framing of the public good, we find little difference: each had an effect size of 1.6% (0.035σ), so the framing of the message had no extra impact on behavior than that from norm messaging. </p><p><em>(The Behavioralist As Tax Collector: Using Natural Field Experiments to Enhance Tax Compliance Michael Hallsworth, John A. List, Robert D. Metcalfe, and Ivo Vlaev NBER Working Paper No. 20007 March 2014 JEL No. C93,H2,H26)</em></p>
+
+----
+
+Links: <ul><li><p><a href="https://www.nber.org/system/files/working_papers/w20007/w20007.pdf" rel="noopener noreferrer nofollow">https://www.nber.org/system/files/working_papers/w20007/w20007.pdf</a></p></li></ul>
 
 ----
 
